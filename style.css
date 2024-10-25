@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0c0b0b00;
+    color: #d40d0d;
+}
+
+header {
+    background-color: #ee69ff; /* Rosa */
+    color: rgba(15, 14, 14, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff69b4; /* Rosa */
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+img{
+    justify-content: center;
+}
